@@ -20,5 +20,5 @@ The model has a error rate of 0.278 at present. It has the following confusion m
 
 
 Example webapp cloud type classifier.
-![alt text2](data/cloud_demo.PNG?raw=true "Webapp example")
+![alt text2](data/cloud_demo.PNG?style=leftme "Webapp example")
 
